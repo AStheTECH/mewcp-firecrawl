@@ -1,5 +1,5 @@
-fastmcp>=0.1.0
-fastmcp-credentials>=0.1.0
+fastmcp
+fastmcp-credentials>=0.2.0,<0.3.0
 pydantic>=2.0.0
 typing-extensions>=4.0.0
 requests>=2.31.0
